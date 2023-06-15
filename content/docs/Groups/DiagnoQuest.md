@@ -58,6 +58,21 @@ By empowering individuals with accurate diagnoses and personalized doctor recomm
 
 3- Access to Specialized Doctors: Patients with specific medical conditions or rare diseases can benefit from the platform's personalized doctor recommendations. By considering the preliminary diagnosis and the user's location, the platform connects them with doctors who specialize in their specific condition, ensuring they receive the most relevant and appropriate care.
 
+{{< hint danger >}}
+**Feedback**  
+
+I liked how you clarify the benefits, but even with AI, I think that doctors must give final treatments. How will your app replace them? Or will you work closely with them. It’s a bit unclear.
+
+> surpassing traditional symptom checkers.
+
+This is very bold to say. Your app will be better than doctors' check up? How will you test this?
+
+>Symptom Validation
+
+If there is a mismatch, who should be the correct one your app or the doctor? 
+
+_Feedback by Moofiy_
+{{< /hint >}}
 
 ## Lean Startup Questionnaire
 
@@ -80,6 +95,15 @@ We will measure the success of our project based on the following metrics:
 ### How do you plan to iterate and pivot if necessary based on user feedback?
 We plan to iterate and pivot based on user feedback by continuously collecting and analyzing user feedback. This will allow us to identify areas for improvement and make iterative changes to our platform. Additionally, we will leverage data analysis to assess the accuracy of our preliminary diagnoses and doctor recommendations, ensuring that our platform is providing the most relevant and up-to-date information.
 
+{{< hint danger >}}
+**Feedback**  
+Your targeted users is too generic. You should give more detailed ones. Who are those individuals who visit doctors a lot?
+This could be pregnant women, diabetes, Cancer. 
+
+Remember not every one will use the app. fortuinatly most of people  go to the doctors for a flu or the like.
+
+_Feedback by Moofiy_
+{{< /hint >}}
 
 ## Leveraging AI, Open-Source, and Experts #
 Our team has a strategic plan to leverage the following resources for the development and success of our project:
@@ -89,6 +113,15 @@ Our team has a strategic plan to leverage the following resources for the develo
 
 2- Open-Source:
     Open-source resources play a significant role in our project's development and success. Our project is based on an open-source AI model that we will leverage for making a preliminary diagnosis based on the user's symptoms. Additionally, we will use open-source tools and libraries for the development of our platform.
+
+
+{{< hint danger >}}
+**Feedback**  
+Is it a classifier? What kind of model is this? What algorithm will you use? How will you train this model?
+
+
+_Feedback by Moofiy_
+{{< /hint >}}
 
 ## Defining the Vision for Your Project
 
@@ -108,3 +141,16 @@ Our project aims to revolutionize the healthcare industry by providing an intell
 2- Integration with External Systems: Ensuring seamless integration with external databases, medical resources, and location-based services may pose technical challenges. We will proactively address compatibility issues and potential API limitations.
 
 3- Scalability and Performance: As the user base grows, handling increased traffic and ensuring real-time response will require careful consideration. We will plan for scalability and performance optimization to maintain a smooth user experience.
+
+{{< hint danger >}}
+**Feedback**  
+
+Good report, but it uses a lot of big words and overselling like:
+> revolutionize the healthcare industry by providing an intelligent and user-friendly platform …
+
+I mean guys try to stay humbled especially when you don't have results yet.
+
+4.5/5
+
+_Feedback by Moofiy_
+{{< /hint >}}
